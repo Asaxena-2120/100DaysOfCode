@@ -5,3 +5,5 @@
 | 2/09/2022   | Band Name Generator : Variables in Python                          |
 | 2/10/2022   | Tip Calculator : Data Types and Managing Strings                   |
 | 2/11/2022   | Treasure Island : Data Types and Managing Strings                  |
+| 2/12/2022   | Rock paper scissors: Randomisation and Python Lists                |
+| 2/13/2022   |                                                                    |
