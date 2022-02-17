@@ -8,3 +8,5 @@
 | 2/12/2022   | Rock paper scissors: Randomisation and Python Lists                |
 | 2/13/2022   | Password Generator: Python Loops                                   |
 | 2/14/2022   | Escaping the Maze: Python Functions and Karel                      |
+| 2/16/2022   | Hangman Game                                                       |
+| 2/17/2022   | Caesar Cipher :Function Parameters                                 |
