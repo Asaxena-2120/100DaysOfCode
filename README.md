@@ -10,3 +10,4 @@
 | 2/14/2022   | Escaping the Maze: Python Functions and Karel                      |
 | 2/16/2022   | Hangman Game                                                       |
 | 2/17/2022   | Caesar Cipher :Function Parameters                                 |
+| 2/18/2022   | Blind Auction :Dictionaries and nesting                            |
