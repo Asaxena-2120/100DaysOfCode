@@ -11,3 +11,5 @@
 | 2/16/2022   | Hangman Game                                                       |
 | 2/17/2022   | Caesar Cipher :Function Parameters                                 |
 | 2/18/2022   | Blind Auction :Dictionaries and nesting                            |
+| 2/19/2022   | Calculator : Functions with output                                 |
+| 2/20/2022   | Blackjack Capstone Project : Blackjack Capstone Project            |
