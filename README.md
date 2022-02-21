@@ -1,5 +1,5 @@
-# 100DaysOfCode
-100DaysOfCode
+# 100 Days of Code
+[100DaysOfCode](https://link-url-here.org)
 | Day         | Topic                                                              |
 | ----------- | ------------------------------------------------------------------ |
 | 2/09/2022   | Band Name Generator : Variables in Python                          |
