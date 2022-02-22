@@ -13,4 +13,5 @@
 | 2/18/2022   | Blind Auction :Dictionaries and nesting                            |
 | 2/19/2022   | Calculator : Functions with output                                 |
 | 2/20/2022   | Blackjack Capstone Project : Blackjack Capstone Project            |
-| 2/22/2022   | Number Guessing Game : Scope and Number guessing game              |
+| 2/21/2022   | Number Guessing Game : Scope and Number guessing game              |
+| 2/22/2022   | FizzBuzz : Fixing Bugs                                             |
