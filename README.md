@@ -15,3 +15,4 @@
 | 2/20/2022   | Blackjack Capstone Project : Blackjack Capstone Project            |
 | 2/21/2022   | Number Guessing Game : Scope and Number guessing game              |
 | 2/22/2022   | FizzBuzz : Fixing Bugs                                             |
+| 2/23/2022   | Higher Lower Game : Higher Lower Game Project                      |
