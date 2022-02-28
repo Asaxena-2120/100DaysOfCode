@@ -16,3 +16,7 @@
 | 2/21/2022   | Number Guessing Game : Scope and Number guessing game              |
 | 2/22/2022   | FizzBuzz : Fixing Bugs                                             |
 | 2/23/2022   | Higher Lower Game : Higher Lower Game Project                      |
+| 2/24/2022   | Coffee Machine code : Local Pycharm setup                          |
+| 2/26/2022   | OOP with turtle module : Intermediate OOP                          |
+| 2/27/2022   | OOP with Prettytable Package : Intermediate OOP                    |
+| 2/28/2022   | Coffee Machine code with OOP : Intermediate OOP                    |
