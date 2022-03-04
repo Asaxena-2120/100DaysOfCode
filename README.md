@@ -20,3 +20,5 @@
 | 2/26/2022   | OOP with turtle module : Intermediate OOP                          |
 | 2/27/2022   | OOP with Prettytable Package : Intermediate OOP                    |
 | 2/28/2022   | Coffee Machine code with OOP : Intermediate OOP                    |
+| 3/02/2022   | Quiz Project : The quiz project and benefits of OOP                |
+| 3/04/2022   | Hirst painting : Turtle and the GUI                                |
