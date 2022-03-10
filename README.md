@@ -22,3 +22,4 @@
 | 2/28/2022   | Coffee Machine code with OOP : Intermediate OOP                    |
 | 3/02/2022   | Quiz Project : The quiz project and benefits of OOP                |
 | 3/04/2022   | Hirst painting : Turtle and the GUI                                |
+| 3/04/2022   | Turtle race : Instance and states                                  |
