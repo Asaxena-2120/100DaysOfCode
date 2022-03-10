@@ -23,3 +23,4 @@
 | 3/02/2022   | Quiz Project : The quiz project and benefits of OOP                |
 | 3/04/2022   | Hirst painting : Turtle and the GUI                                |
 | 3/04/2022   | Turtle race : Instance and states                                  |
+| 3/10/2022   | Snake Game Part1 : Intermediate                                    |
