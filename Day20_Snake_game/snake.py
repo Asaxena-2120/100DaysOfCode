@@ -1,9 +1,11 @@
 from turtle import Turtle
 MOVE_DISTANCE = 20
+STARTING_POSITIONS = [(0,0), (-20,0), (-40,0)]
 UP = 90
 DOWN = 270
 LEFT = 180
 RIGHT = 0
+
 
 class Snake:
 
@@ -15,12 +17,19 @@ class Snake:
     def create_snake(self):
         # CREATE A SNAKE BODY, Create 3 turtles and position them like each
         # turtle should be a white square (default: size 20*20)
-        for i in range(0, 3):
-            new_segment = Turtle(shape="square")
-            new_segment.color("white")
-            new_segment.penup()
-            new_segment.goto(x=i * -20, y=0)
-            self.segments.append(new_segment)
+        for position in STARTING_POSITIONS:
+            self.add_segment(position)
+
+    # Add a new segment to snake when snake collides food
+    def add_segment(self, position):
+        new_segment = Turtle(shape="square")
+        new_segment.color("white")
+        new_segment.penup()
+        new_segment.goto(position)
+        self.segments.append(new_segment)
+
+    def extend(self):
+        self.add_segment(self.segments[-1].position())
 
     def move(self):
         '''
