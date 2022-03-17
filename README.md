@@ -22,7 +22,8 @@
 | 2/28/2022   | Coffee Machine code with OOP : Intermediate OOP                    |
 | 3/02/2022   | Quiz Project : The quiz project and benefits of OOP                |
 | 3/04/2022   | Hirst painting : Turtle and the GUI                                |
-| 3/04/2022   | Turtle race : Instance and states                                  |
+| 3/06/2022   | Turtle race : Instance and states                                  |
 | 3/10/2022   | Snake Game Part1 : Intermediate                                    |
 | 3/11/2022   | Snake Game Part2 : Intermediate                                    |
 | 3/14/2022   | The Pong : Famous Arcade game                                      |
+| 3/16/2022   | Turtle Crossing Capstone Project                                   |
