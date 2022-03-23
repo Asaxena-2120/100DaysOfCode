@@ -28,3 +28,4 @@
 | 3/14/2022   | The Pong : Famous Arcade game                                      |
 | 3/16/2022   | Turtle Crossing Capstone Project                                   |
 | 3/17/2022   | Mail Merge Project : Files, Directories and Paths                  |
+| 3/22/2022   | US States Game : Pandas                                            |
