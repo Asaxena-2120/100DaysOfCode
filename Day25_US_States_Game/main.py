@@ -43,7 +43,6 @@ while game_is_on:
 
         game_is_on = False
 
-
     # get row from 50_states.csv that matches user's guess
     if states[states['state']==answer_state].empty:
         continue
