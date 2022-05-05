@@ -1,8 +1,8 @@
 from tkinter import *
 
 def button_clicked():
-    new_value=round(int(miles.get()) * 1.60934,2)
-    km_value.config(text=new_value)
+    new_value=round(float(miles.get()) * 1.60934,2)
+    km_value.config(text=f"{new_value}")
 
 
 window = Tk()
