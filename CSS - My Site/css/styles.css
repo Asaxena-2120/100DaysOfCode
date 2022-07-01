@@ -8,16 +8,15 @@ margin-top: 0;
 .top-container
 {
     background-color: #FEE3EC;
+
 }
 
 .middle-container {
 height:200px;
 width:200px;
-background-color: blue;
 }
 
 .bottom-container {
 height:200px;
 width:200px;
-background-color: red;
 }
