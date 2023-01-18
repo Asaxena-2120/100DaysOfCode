@@ -29,3 +29,29 @@
 | 3/16/2022   | Turtle Crossing Capstone Project                                   |
 | 3/17/2022   | Mail Merge Project : Files, Directories and Paths                  |
 | 3/22/2022   | US States Game : Pandas                                            |
+
+// Tutorial //
+How To Add Images in Markdown
+Published on June 29, 2016 · Updated on October 12, 2020
+Default avatar
+By Alligator.io
+Developer and author at DigitalOcean.
+How To Add Images in Markdown
+Introduction
+You can add images to Markdown using the [alt text](image_url) syntax. Let’s see how it works.
+
+Prerequisites
+A general knowledge of HTML5. For a comprehensive review of the HTML5 markup language, explore our series, How To Build a Website in HTML.
+Adding Images in Markdown
+Here’s the syntax for adding images in Markdown. The title is optional:
+
+document.md
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+This results in the following HTML:
+
+<img title="a title" alt="Alt text" src="/images/boo.svg">
+Linked Images
+With the markdown syntax for links, here’s how you would have a linked image:
+
+document.md
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
