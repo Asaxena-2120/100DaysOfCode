@@ -55,3 +55,5 @@ With the markdown syntax for links, here’s how you would have a linked image:
 
 document.md
 [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
